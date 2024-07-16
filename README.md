@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### MNIST SOLUTION
 
-For educational purpose I made a [Simple Solution](https://github.com/juraam/stable-diffusion-from-scratch/blob/main/mnist_solution.ipynb) to regognize MNIST digits.
+For educational purpose I made a [Simple Solution](https://github.com/juraam/neural-network-from-scratch/blob/main/mnist_solution.ipynb) to regognize MNIST digits.
 
 ### RUN TESTS
 
